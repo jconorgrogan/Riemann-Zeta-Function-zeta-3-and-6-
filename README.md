@@ -1,4 +1,4 @@
-Stumbled upon this geometric interpretation of Zeta function for s=3 that I haven't seen before. 
+Stumbled upon this geometric interpretation of Zeta function for ζ(3) that I haven't seen before. 
 
 1. **Geometric Setup**
    - Analyze a unit circle with nodes spaced equidistantly. For each number of nodes \(n\), examine the difference between the arc length \( \frac{2\pi}{n} \) and the straight-line chord length \( 2 \sin\left(\frac{\pi}{n}\right) \) from the node at (1,0) to the next node clockwise.
