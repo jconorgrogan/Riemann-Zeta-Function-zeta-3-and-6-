@@ -21,3 +21,5 @@ Next, we involve the sum of the squared differences between the arc lengths and 
 $$
 \sum_{n=1}^\infty \left(\frac{2\pi}{n} - 2 \sin\left(\frac{\pi}{n}\right)\right)^2 \approx \sum_{n=1}^\infty \left(\frac{\pi^3}{3n^3}\right)^2 = \frac{\pi^6}{9} \zeta(6)
 $$
+
+In other words, we can visualize zeta(3), a notoriously mysterious number, as a simple geometric outcome  
