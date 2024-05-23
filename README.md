@@ -46,11 +46,10 @@ Summing this difference over all segments as \(n \to \infty\):
 
 \[ \sum_{n=1}^\infty \left(\frac{\pi^3}{3n^3}\right) = \frac{\pi^3}{3} \sum_{n=1}^\infty \frac{1}{n^3} = \frac{\pi^3}{3} \zeta(3) \]
 
-
 Next, we involve the sum of the squared differences between the arc lengths and the chord lengths. As \(n\) tends to infinity, the sum of the squared differences approaches \(\frac{\pi^6}{9}\zeta(6)\), where ζ(6) is the value of the Riemann zeta function at 6. Formally, we have:
 
-$$
+\[ 
 \sum_{n=1}^\infty \left(\frac{2\pi}{n} - 2 \sin\left(\frac{\pi}{n}\right)\right)^2 \approx \sum_{n=1}^\infty \left(\frac{\pi^3}{3n^3}\right)^2 = \frac{\pi^6}{9} \zeta(6)
-$$
+\]
 
-In other words, we can visualize zeta(3), a notoriously mysterious number, as a simple geometric outcome  
+In other words, we can visualize ζ(3), a notoriously mysterious number, as a simple geometric outcome.
