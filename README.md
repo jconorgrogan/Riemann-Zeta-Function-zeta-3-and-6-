@@ -85,7 +85,4 @@ The approach can be extended to higher orders, such as ζ(6), by examining more 
 \]
 
 Here, ζ(6) captures even higher-order corrections between the arc and the chord lengths, and this is reflected in the series involving \(n^{-6}\) terms.
-
-## Conclusion
-
-This geometric setup provides a clear and elegant way to visualize famous zeta function values. **ζ(3)** can be understood as the cumulative difference between the arc length and chord length for individual segments, while **ζ(2)** emerges from the global approximation of a circle by a polygon. Extending this idea, **ζ(6)** represents even finer geometric corrections. These interpretations offer an intuitive bridge between geometry and these mysterious constants in number theory.
+ 
