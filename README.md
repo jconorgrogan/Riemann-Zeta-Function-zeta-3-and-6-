@@ -1,6 +1,6 @@
 # Geometric Interpretation of the Riemann Zeta Function: ζ(2), ζ(3), and ζ(6)
 
-Stumbled upon this geometric interpretation of the zeta function I haven't seen before. 
+Stumbled upon this geometric interpretation of the zeta function I haven't seen before.
 
 ## Geometric Setup
 
@@ -83,4 +83,3 @@ The approach can be extended to higher orders, such as ζ(6), by examining more 
 \]
 
 Here, ζ(6) captures even higher-order corrections between the arc and the chord lengths, and this is reflected in the series involving \(n^{-6}\) terms.
- 
