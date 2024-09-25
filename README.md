@@ -1,8 +1,6 @@
 # Geometric Interpretation of the Riemann Zeta Function: ζ(2), ζ(3), and ζ(6)
 
-## Introduction
-
-Stumbled upon this geometric interpretation of the zeta function I haven't sen before. 
+Stumbled upon this geometric interpretation of the zeta function I haven't seen before. 
 
 ## Geometric Setup
 
