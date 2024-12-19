@@ -1,4 +1,4 @@
-# Computational Complexity and Hypercube Refinement
+# Zeta Function, Computational Complexity and Generalized Hypercubes
 
 Consider that for each fixed dimension \(n\) and scale \(p\), you have a grid forming an \(n\)-dimensional hypercube with \((p+1)^n\) vertices. Suppose the “computation” you must perform is a full comparison of a chosen “reference” vertex to every other vertex in the grid. In essence, you are measuring how “difficult” it is to characterize one vertex in relation to the entire configuration.
 
